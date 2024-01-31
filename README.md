@@ -2,6 +2,10 @@
 
 This repository contains my implementation for the Classification and Evaluation assignment as part of the Introduction to Machine Learning (COMP90049) course at The University of Melbourne. The assignment involves applying various classifiers to the Adult and Student datasets, evaluating results, and answering conceptual questions.
 
+```bash
+git clone https://github.com/KIAND-glitch/Classification-Models.git
+```
+
 ## Datasets
 
 - **Adult**: Predict income based on personal attributes.
@@ -45,8 +49,5 @@ Attributes are outlines in readme.txt within the datasets
 - Discuss ethical problems in using the Categorical Naive Bayes classifier.
 - Remove ethically problematic features, train NB classifiers, and compare performance changes.
 - Discuss fairness implications of removing problematic features.
-
-```bash
-git clone https://github.com/KIAND-glitch/Classification-Models.git
 
 
