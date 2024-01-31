@@ -46,4 +46,7 @@ Attributes are outlines in readme.txt within the datasets
 - Remove ethically problematic features, train NB classifiers, and compare performance changes.
 - Discuss fairness implications of removing problematic features.
 
+```bash
+git clone https://github.com/KIAND-glitch/Classification-Models.git
+
 
